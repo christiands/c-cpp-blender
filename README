@@ -1,0 +1,18 @@
+this is a small demonstration of library namespacing using the same code
+it is not well optimized, but it shows how much C and C++ let you abuse them
+
+building:
+
+- for the C version, run:
+> make cver
+
+- for the C++ version, run:
+> make cxxver
+
+- for both versions, run:
+> make all
+
+* note: you may have to change compilers around
+
+
+if you get fired for using this it's not my fault
