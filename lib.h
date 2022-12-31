@@ -23,13 +23,12 @@
 #ifdef __cplusplus
 namespace lib {
 namespace math {
-extern "C" {
 #endif //__cplusplus
 
 int FN_h(fibonacci)(int);
 
 #ifdef __cplusplus
-}}}
+}}
 #endif //__cplusplus
 
 #endif // LIB_HEADER
